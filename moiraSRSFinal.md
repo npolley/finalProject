@@ -141,8 +141,10 @@ IV. Potential User #4 Matthew Quinn - matthew.t.quinn@att.net
 References
 ----------
 
-[1] Thomas, Philip I. “Scheduling Algorithm with Optimization of Employee Satisfaction.”Philipthomas.com, May 2013, scheduling.philipithomas.com/ scheduling.pdf. [2] When I Work, wheniwork.com/employee-scheduling-software. [3] Schumann, Richard. “Work Schedules in the National Compensation
-Survey.” Work Schedules in the National Compensation Survey, www.bls.gov/ opub/mlr/cwc/work-schedules-in-the-national-compensation-survey.pdf. [4] Waters, Shari. “Factors in Scheduling for the Retail Manager.” The Balance, www.thebalance.com/scheduling-employees-2890449.
+[1] Thomas, Philip I. “Scheduling Algorithm with Optimization of Employee Satisfaction.”Philipthomas.com, May 2013, scheduling.philipithomas.com/ scheduling.pdf. 
+[2] When I Work, wheniwork.com/employee-scheduling-software. 
+[3] Schumann, Richard. “Work Schedules in the National Compensation Survey.” Work Schedules in the National Compensation Survey, www.bls.gov/ opub/mlr/cwc/work-schedules-in-the-national-compensation-survey.pdf. 
+[4] Waters, Shari. “Factors in Scheduling for the Retail Manager.” The Balance, www.thebalance.com/scheduling-employees-2890449.
 
 Overall Description
 ===================
