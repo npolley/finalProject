@@ -240,7 +240,7 @@ public class loginGui extends javax.swing.JFrame {
             try{
             String username = "sa";
             String pass = "Left4dead!";
-            String url = "jdbc:sqlserver://localhost:49710;DatabaseName=Miora";
+            String url = "jdbc:sqlserver://192.168.0.11:49710;DatabaseName=Miora";
             Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
             Connection con = DriverManager.getConnection(url, username, pass);
             String sql = "Select * from [dbo].[Login] where username=? and password =?";

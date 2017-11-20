@@ -176,7 +176,7 @@ public class mainGui extends javax.swing.JFrame {
             String userNameLogin = null;
             String username = "sa";
             String pass = "Left4dead!";
-            String url = "jdbc:sqlserver://localhost:49710;DatabaseName=Miora";
+            String url = "jdbc:sqlserver://192.168.0.11:49710;DatabaseName=Miora";
             Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
             Connection con = DriverManager.getConnection(url, username, pass);
             String sql = "Select [Professor], [Course ID], [Meeting Days], [Meeting Time] from [dbo].[Classes] where UserID=?";
